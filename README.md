@@ -5,7 +5,7 @@ A comprehensive AI-powered SaaS application that provides multiple AI services i
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/Home.png)
+![Home Page](./screenshots/home.png)
 - Landing page with hero section
 - Feature highlights and pricing overview
 - Clean, modern design with gradient backgrounds
@@ -203,7 +203,7 @@ VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 1. **Clone the repository**
 ```bash
 git clone 
-cd easyprompt-app
+cd Genr8
 ```
 
 2. **Install server dependencies**
@@ -354,7 +354,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ammar Zahid**
 - GitHub: https://github.com/ammar1zahid
-- Project: 
+- Project: https://github.com/ammar1zahid/Genr8-AI-SaaS-App.git
 
 ## 🙏 Acknowledgments
 
